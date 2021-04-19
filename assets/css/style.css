@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #37517e;
+  color: #3b8dfd;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -544,7 +544,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .section-title h2::before {
@@ -668,7 +668,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .why-us .content h4 {
@@ -788,7 +788,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #37517e;
+  color: #3b8dfd;
   font-family: "Poppins", sans-serif;
 }
 
@@ -824,7 +824,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .skills .progress .skill .val {
@@ -870,7 +870,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #37517e;
+  color: #3b8dfd;
   transition: ease-in-out 0.3s;
 }
 
@@ -1064,7 +1064,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .team .member span {
@@ -1110,7 +1110,7 @@ section {
 }
 
 .team .member .social a i {
-  color: #37517e;
+  color: #3b8dfd;
   font-size: 16px;
   margin: 0 2px;
 }
@@ -1147,12 +1147,12 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 20px;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .pricing h4 {
   font-size: 48px;
-  color: #37517e;
+  color: #3b8dfd;
   font-weight: 400;
   font-family: "Jost", sans-serif;
   margin-bottom: 25px;
@@ -1312,7 +1312,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #3b8dfd;
   transition: 0.3s;
 }
 
@@ -1365,7 +1365,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .contact .info p {
@@ -1540,7 +1540,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 .breadcrumbs ol {
@@ -1655,7 +1655,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #3b8dfd;
 }
 
 #footer .footer-newsletter {
@@ -1672,7 +1672,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 #footer .footer-newsletter form {
@@ -1727,7 +1727,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #3b8dfd;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1741,7 +1741,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #3b8dfd;
   position: relative;
   padding-bottom: 12px;
 }
